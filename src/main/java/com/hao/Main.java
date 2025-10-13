@@ -8,6 +8,7 @@ public class Main {
         // 查看 IntelliJ IDEA 建议如何修正。
         System.out.println("Hello and welcome!");
         System.out.println("push test");
+        System.out.println("pull test");
 
         for (int i = 1; i <= 5; i++) {
             //TIP 按 <shortcut actionId="Debug"/> 开始调试代码。我们已经设置了一个 <icon src="AllIcons.Debugger.Db_set_breakpoint"/> 断点
